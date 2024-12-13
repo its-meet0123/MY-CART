@@ -1,2 +1,0 @@
-# MY-CART
-React Js
